@@ -1,8 +1,9 @@
 {
-"theme":"chrismats",
-"wallpaper":"https://raw.githubusercontent.com/RahulRanjanThynkXD/wavetv/main/chrismas.jpg",
-"startDate":"",
-"endDate":"",
-"rsn":"1,2,3"
-"model":""
+  "theme": "christmas",
+  "wallpaper": "https://raw.githubusercontent.com/RahulRanjanThynkXD/wavetv/main/chrismas.jpg",
+  "backgroundColor": "#121212",
+  "startDate": "2025-12-20",
+  "endDate": "2026-01-05",
+  "esn": "1,2,3",
+  "model": "AndroidTV"
 }
