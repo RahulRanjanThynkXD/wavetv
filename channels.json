@@ -195,6 +195,27 @@
       "isOTT": true,
       "listInTvApp": true,
       "appType": 0
+    },
+     {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910010,
+      "dvbTransportStreamId": 302,
+      "dvbCTransportStreamId": 4302,
+      "dvbServiceId": 530003,
+      "dvbCServiceId": 530003,
+      "dvbDisplayName": "CityNews Vancouver",
+      "dvbLcn": 10,
+      "dvbBouquetId": 800010,
+      "dvbIpMcUri": "https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [120, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/CityNews_logo.svg",
+      "serviceType": "HD",
+      "channelOrder": 10,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
     }
   ]
 }
