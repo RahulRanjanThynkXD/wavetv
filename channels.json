@@ -101,7 +101,7 @@
       "dvbDisplayName": "3ABN Canada",
       "dvbLcn": 401,
       "dvbBouquetId": 800010,
-      "dvbIpMcUri": "https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8",
+      "dvbIpMcUri": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
       "dvbVideoFormat": "VIDEO_FORMAT_720P",
       "fecType": "2D",
       "serviceGenres": [120, 0],
