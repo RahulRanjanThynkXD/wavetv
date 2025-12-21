@@ -153,6 +153,27 @@
       "isOTT": true,
       "listInTvApp": true,
       "appType": 0
+    },
+     {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910030,
+      "dvbTransportStreamId": 501,
+      "dvbCTransportStreamId": 4501,
+      "dvbServiceId": 550001,
+      "dvbCServiceId": 550001,
+      "dvbDisplayName": "TV Punjab",
+      "dvbLcn": 601,
+      "dvbBouquetId": 800030,
+      "dvbIpMcUri": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [120, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/TV_Punjab_logo.png",
+      "serviceType": "HD",
+      "channelOrder": 601,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
     }
   ]
 }
