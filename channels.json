@@ -90,6 +90,27 @@
       "isOTT": "true",
       "listInTvApp": "true",
       "appType": 0
+    },
+    {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910010,
+      "dvbTransportStreamId": 301,
+      "dvbCTransportStreamId": 4301,
+      "dvbServiceId": 530001,
+      "dvbCServiceId": 530001,
+      "dvbDisplayName": "3ABN Canada",
+      "dvbLcn": 401,
+      "dvbBouquetId": 800010,
+      "dvbIpMcUri": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [120, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/3ABN_logo.png",
+      "ServiceType": "HD",
+      "channelOrder": 401,
+      "isOTT": "true",
+      "listInTvApp": "true",
+      "appType": 0
     }
   ]
 }
