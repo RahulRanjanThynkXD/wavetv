@@ -216,6 +216,27 @@
       "isOTT": true,
       "listInTvApp": true,
       "appType": 0
+    },
+    {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910050,
+      "dvbTransportStreamId": 701,
+      "dvbCTransportStreamId": 4701,
+      "dvbServiceId": 570001,
+      "dvbCServiceId": 570001,
+      "dvbDisplayName": "&TV",
+      "dvbLcn": 11,
+      "dvbBouquetId": 800050,
+      "dvbIpMcUri": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_1080P",
+      "fecType": "2D",
+      "serviceGenres": [110, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/en/6/6f/Andflix_logo.png",
+      "serviceType": "HD",
+      "channelOrder": 11,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
     }
   ]
 }
