@@ -132,6 +132,27 @@
       "isOTT": true,
       "listInTvApp": true,
       "appType": 0
+    },
+    {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910020,
+      "dvbTransportStreamId": 401,
+      "dvbCTransportStreamId": 4401,
+      "dvbServiceId": 540001,
+      "dvbCServiceId": 540001,
+      "dvbDisplayName": "Nicktoons",
+      "dvbLcn": 501,
+      "dvbBouquetId": 800020,
+      "dvbIpMcUri": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [100, 50],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nicktoons_Logo_2023.svg",
+      "serviceType": "HD",
+      "channelOrder": 501,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
     }
   ]
 }
