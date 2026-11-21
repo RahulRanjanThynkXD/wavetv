@@ -216,6 +216,48 @@
       "isOTT": true,
       "listInTvApp": true,
       "appType": 0
+    },
+    {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910050,
+      "dvbTransportStreamId": 303,
+      "dvbCTransportStreamId": 4304,
+      "dvbServiceId": 530003,
+      "dvbCServiceId": 530003,
+      "dvbDisplayName": "9X Jalwa",
+      "dvbLcn": 10,
+      "dvbBouquetId": 800010,
+      "dvbIpMcUri": "https://fta.ektv.in/live/161/master.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [120, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/CityNews_logo.svg",
+      "serviceType": "HD",
+      "channelOrder": 10,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
+    },
+     {
+      "epgUri": "",
+      "dvbOriginalNetworkId": 910050,
+      "dvbTransportStreamId": 303,
+      "dvbCTransportStreamId": 4304,
+      "dvbServiceId": 530003,
+      "dvbCServiceId": 530003,
+      "dvbDisplayName": "9XM",
+      "dvbLcn": 10,
+      "dvbBouquetId": 800010,
+      "dvbIpMcUri": "https://streams.tangotv.in/9XM/ORIGIN/index.m3u8",
+      "dvbVideoFormat": "VIDEO_FORMAT_720P",
+      "fecType": "2D",
+      "serviceGenres": [120, 0],
+      "channelLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/CityNews_logo.svg",
+      "serviceType": "HD",
+      "channelOrder": 10,
+      "isOTT": true,
+      "listInTvApp": true,
+      "appType": 0
     }
   ]
 }
